@@ -4,4 +4,5 @@
 - 💞️ I’m looking forward to research in Machine Learning
 - 📫 How to reach me email:dinithiwijayasinghe@gmail.com
 - Thank you! Have a nice Day!
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Tech+Ethusiast!)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Tech+Enthusiast!)
