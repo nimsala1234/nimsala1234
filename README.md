@@ -29,4 +29,4 @@
 
 📫 **Let's Connect**
 - [LinkedIn](https://www.linkedin.com/in/dinithi-wijayasinghe)
-- 📧 dnm.wijayasinghe@email.com
+- 📧 dnm.wijayasinghe@gmail.com
