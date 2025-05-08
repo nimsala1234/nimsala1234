@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there,+I'm+Dinithi+Wijayasinghe+👋;AI+Engineer+%7C+NLP+Researcher+%7C+Open+Source+Lover&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there,+I'm+Dinithi+Wijayasinghe+👋&center=true&width=500&height=50">
 </p>
 
 <p align="center">
