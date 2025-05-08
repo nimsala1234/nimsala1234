@@ -13,10 +13,10 @@
 - 💬 I love discussing ideas that blend AI with social impact
 
 🔨 **My Favorite Tools**
-- Languages: Python,Java, C++, C#, C, JavaScript (HTML, CSS too)
-- Libraries: TensorFlow, PyTorch, Hugging Face, Scikit-learn, OpenCV
-- IDEs- Visual Studio, NotePad++
-- Tools: Google Colab, Git, Gradio, Streamlit, Docker, GCP, Matlab, XAMPP Server, Fedora-41 Server (linux), Postman, Proteus 8 Professional, Axure RP 9
+- **Languages:** Python,Java, C++, C#, C, JavaScript (HTML, CSS too)
+- **Libraries:** TensorFlow, PyTorch, Hugging Face, Scikit-learn, OpenCV
+- **IDEs:**- Visual Studio, NotePad++
+- **Tools:** Google Colab, Git, Gradio, Streamlit, Docker, GCP, Matlab, XAMPP Server, Fedora-41 Server (linux), Postman, Proteus 8 Professional, Axure RP 9
 
 📈 **GitHub Stats**
 
