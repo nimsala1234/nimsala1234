@@ -1,4 +1,6 @@
-<h2 align="center"> ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi there, I'm Dinithi Wijayasinghe 👋) </h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there,+I'm+Dinithi+Wijayasinghe+👋;AI+Engineer+%7C+NLP+Researcher+%7C+Open+Source+Lover&center=true&width=500&height=50">
+</p>
 
 <p align="center">
   🎓 AI Engineer | 💡 NLP | 💻 Matrix Club Organizer | 🚀 Open to Collaborations
