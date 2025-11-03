@@ -7,7 +7,7 @@
 </p>
 
 🌟 **About Me**  
-- 🎓 Second year undergraduate in Information Technology, Self-Studied ML, Robotics, Neuro Science and Psychology from Yale MOOC.
+- 🎓 Third year undergraduate in Information Technology, Self-Studied ML, Robotics, Neuro Science and Psychology from Yale MOOC.
 - 🤖 Passionate about Artificial Intelligence, especially NLP, Neuro Science, and Humonoid Robots. 
 - 🧪 Currently researching real-time question answering using dynamic contextualization  
 - 🏫 Conducting hands-on sessions for university students  
