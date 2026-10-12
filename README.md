@@ -7,11 +7,11 @@
 </p>
 
 🌟 **About Me**  
-- 🎓 Third year undergraduate in Information Technology, Self-Studied ML, Robotics, Neuro Science and Psychology from Yale MOOC.
-- 🤖 Passionate about Artificial Intelligence, especially NLP, Neuro Science, and Humonoid Robots. 
-- 🧪 Currently researching real-time question answering using dynamic contextualization  
+- 🎓 Final year undergraduate in Information Technology, deep in ML, Robotics, Neuro Science and Psychology from Yale MOOC.
+- 🤖 Passionate about Artificial Intelligence, especially NLP, RAG, Neuro Science, and Humonoid Robots. 
+- 🧪 Currently researching validity-aware cross-lingual RAG and real-time question answering using dynamic contextualization  .
 - 🏫 Conducting hands-on sessions for university students  
-- 🛠️ Projects in Python, TensorFlow, PyTorch, Gradio, Hugging Face, and GCP  
+- 🛠️ Projects in ML, Python, TensorFlow, PyTorch, Gradio, Hugging Face, and GCP  
 - 💬 I love discussing ideas that blend AI with social impact
 
 🔨 **My Favorite Tools**
